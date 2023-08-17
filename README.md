@@ -22,3 +22,6 @@ Usage
 To install the MSCOMM32.OCX ActiveX control, right click on install, click on Run as administrator
 
 ==================================================================================================================
+
+
+Shout out to @MatthewOgs my mentor who helped me on this
